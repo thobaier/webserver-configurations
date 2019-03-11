@@ -6,4 +6,5 @@ Just a few configuration files for webservers.
 * Forward TCP/UDP traffic
 * HTTP/HTTS server blocks
 * Symfony configurations  
+* Local dynamic subdomains  
 ...
